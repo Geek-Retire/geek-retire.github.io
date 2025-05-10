@@ -101,5 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 
+  type: git
+  repo: git@github.com:geek-retire/www.geek-retire.com.git
+  branch: gh-pages
