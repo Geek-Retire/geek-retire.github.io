@@ -1,0 +1,4 @@
+[submodule "themes/Hacker"]
+	path = themes/Hacker
+	url = https://github.com/geek-retire/Hacker.git
+	branch = master
